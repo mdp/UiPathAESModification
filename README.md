@@ -11,7 +11,7 @@ not suffer from this issue.
 ## Usage
 
 Because the salt is changed on each encryption, you'll need to run the project and save the ciphertext output in the logs. Then modify this
-ciphertext by modifying the IV key, as described in [this article]()
+ciphertext by modifying the IV key, as described in [this article](https://www.linkedin.com/pulse/encryption-authentication-mark-percival/)
 
 Example:
 
